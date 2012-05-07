@@ -8,3 +8,4 @@
 #import "NSManagedObject+toDictionary.h"
 #import "NSString+filename.h"
 #import "NSURL+query.h"
+#import "NSInvocation+encapsulation.h"
