@@ -1,6 +1,5 @@
 //
 //  NSString+filename.m
-//  Sharit
 //
 //  Created by Giuseppe Basile on 06/04/12.
 //  Copyright (c) 2012 Giuseppe Basile. All rights reserved.
