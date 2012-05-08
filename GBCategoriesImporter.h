@@ -7,5 +7,6 @@
 
 #import "NSManagedObject+toDictionary.h"
 #import "NSString+filename.h"
+#import "NSString-email.h"
 #import "NSURL+query.h"
 #import "NSInvocation+encapsulation.h"
