@@ -10,3 +10,4 @@
 #import "NSString-email.h"
 #import "NSURL+query.h"
 #import "NSInvocation+encapsulation.h"
+#import "NSError+convenience"

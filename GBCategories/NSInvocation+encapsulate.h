@@ -1,6 +1,5 @@
 //
 //  NSInvocation+encapsulate.h
-//  Archy
 //
 //  Created by Giuseppe Basile on 07/05/12.
 //  Copyright (c) 2012 Archy. All rights reserved.

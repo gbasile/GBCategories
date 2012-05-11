@@ -1,6 +1,5 @@
 //
 //  NSString+email.m
-//  Giuseppe Basile
 //
 //  Created by Giuseppe Basile on 08/05/12.
 //  Copyright (c) 2012 Sharit. All rights reserved.
